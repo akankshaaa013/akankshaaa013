@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Akanksha Gupta</h1>
-<h3 align="center">A To Be Software developer from India</h3>
+<h2 align="center">Hello 👋, Myself Akanksha Gupta 👩🏻‍💻</h2>
+<h4 align="center">Rising like a phoenix, a coder turns bugs into features 😉</h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshaaa013&label=Profile%20views&color=0e75b6&style=flat" alt="akankshaaa013" /> </p>
 
-- 🌱 I’m currently learning **DSA**👩🏻‍💻
+### 💫 About Me:
 
-- 📫 How to reach me **gakanksha013@gmail.com**
+ *🌱 I’m currently learning DSA👩🏻‍💻<br>📫 How to reach me gakanksha013@gmail.com<br>⚡ Thriving on caffeine, debugging, and endless lines of code😛*
 
-- ⚡ **Thriving on caffeine, debugging, and endless lines of code😛**
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a_k_a_n_k_s_h_a_004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akankshagupta004) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gakanksha013) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/akankshaaa013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akankshaaa013" height="30" width="40" /></a>
-<a href="https://instagram.com/_a_k_a_n_k_s_h_a_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_k_a_n_k_s_h_a_004" height="30" width="40" /></a>
-  <a href="https://medium.com/@gakanksha013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gakanksha013" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gakanksha013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gakanksha013" height="30" width="40" /></a>
-</p>
+### 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📈 Git Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshaaa013&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshaaa013&show_icons=true&locale=en&layout=compact" alt="akankshaaa013" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshaaa013&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshaaa013&show_icons=true&locale=en" alt="akankshaaa013" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaaa013&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaaa013&" alt="akankshaaa013" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akankshaaa013&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=akankshaaa013&icon=5&color=7)](https://visitcount.itsvg.in)
