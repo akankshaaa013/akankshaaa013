@@ -22,7 +22,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akankshaaa013&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=akankshaaa013&icon=5&color=7)](https://visitcount.itsvg.in)
