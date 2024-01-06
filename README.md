@@ -10,7 +10,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a_k_a_n_k_s_h_a_004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akankshagupta004) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gakanksha013) 
 
 #### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,mysql,py,java,react,vscode&perline=10&theme=dark&)](https://skillicons.dev)
+
 
 #### 📈 Git Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshaaa013&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
