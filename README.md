@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-#### 💫 About Me:
+#### 🌈 About Me:
 <div align="left">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=1000&color=1FCEF7&multiline=true&random=false&width=500&height=60&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Java+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%93%AB+How+to+reach+me+gakanksha013%40gmail.com;%E2%9A%A1+Thriving+on+caffeine%2C+debugging%2C+and+endless+lines+of+code%F0%9F%98%9B" alt="Typing SVG" /></a>
@@ -31,4 +31,4 @@
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=akankshaaa013&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akankshaaa013&icon=1&color=7)](https://visitcount.itsvg.in)
