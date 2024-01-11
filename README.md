@@ -15,6 +15,7 @@
 <a href="https://instagram.com/_a_k_a_n_k_s_h_a_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_k_a_n_k_s_h_a_004" height="30" width="40" /></a>
 <a href="https://medium.com/@gakanksha013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gakanksha013" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gakanksha013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gakanksha013" height="30" width="40" /></a>
+<a href="https://kaggle.com/akankshaaa013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akankshaaa013" height="30" width="40" /></a>
 </p>
 
 #### 💻 Tech Stack:
