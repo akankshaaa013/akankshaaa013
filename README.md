@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=1000&color=1FCEF7&multiline=true&random=false&width=500&height=60&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Java+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%93%AB+How+to+reach+me+gakanksha013%40gmail.com;%E2%9A%A1+Thriving+on+caffeine%2C+debugging%2C+and+endless+lines+of+code%F0%9F%98%9B" alt="Typing SVG" /></a>
 </div>
 
-#### 🌐 Socials:
+#### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/akankshagupta004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akankshagupta004" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_k_a_n_k_s_h_a_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_k_a_n_k_s_h_a_004" height="30" width="40" /></a>
