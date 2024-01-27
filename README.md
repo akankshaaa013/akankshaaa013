@@ -1,5 +1,5 @@
 ![logo](https://github.com/akankshaaa013/akankshaaa013/blob/main/Learn3.png)
-<h2 align="center">Hello 👋, Myself Akanksha Gupta 👩🏻‍💻</h2>
+<h2 align="center">Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="22" height="25" />, I'm Akanksha Gupta👩🏻‍💻</h2>
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
