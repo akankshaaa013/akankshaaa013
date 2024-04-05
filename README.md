@@ -6,7 +6,7 @@
 ### 🌈 About Me:
 <div align="left">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=1000&color=1FCEF7&multiline=true&random=false&width=500&height=60&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Java+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%93%AB+How+to+reach+me+gakanksha013%40gmail.com;%E2%9A%A1+Thriving+on+caffeine%2C+debugging%2C+and+endless+lines+of+code%F0%9F%98%9B" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=1000&color=1FCEF7&multiline=true&random=false&width=500&height=60&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+exploring+Microsoft+Azure+Cloud+Services+☁;%F0%9F%93%AB+How+to+reach+me+gakanksha013%40gmail.com;%E2%9A%A1+Thriving+on+caffeine%2C+debugging%2C+and+endless+lines+of+code%F0%9F%98%9B" alt="Typing SVG" /></a>
 </div>
 
 ### 🌐 Connect with me:
