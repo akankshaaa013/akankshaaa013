@@ -19,7 +19,7 @@
 </p>
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,mysql,py,java,react,vscode&perline=10&theme=dark&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,mysql,py,java,react,vscode,azure,bootstrap,docker,git,netlify,npm,powershell&perline=15&theme=dark&)](https://skillicons.dev)
 
 
 ### 📈 Git Stats
