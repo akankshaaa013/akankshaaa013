@@ -1,10 +1,10 @@
 ![logo](https://github.com/akankshaaa013/akankshaaa013/blob/main/Learn.png)
 <h2 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="22" height="25" /> I'm Akanksha Gupta👩🏻‍💻</h2>
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 ### 🌈 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=13&duration=4000&pause=800&color=1A1A1A&multiline=true&random=false&width=520&height=80&&lines=☆+Currently+diving+deep+into+Generative+AI+and+Machine+Learning;➲+Working+as+a+Data+Engineer+%7C+Data+Scraping+%26+Insights;▶+Transforming+raw+data+into+meaningful+stories;❧+Fueled+by+caffeine+%26+curiosity%2C+one+script+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=14&duration=4000&pause=800&color=1A1A1A&multiline=true&random=false&width=530&height=80&&lines=☆+Currently+diving+deep+into+Generative+AI+and+Machine+Learning;➲+Working+as+a+Data+Engineer+%7C+Data+Scraping+%26+Insights;▶+Transforming+raw+data+into+meaningful+stories;❧+Fueled+by+caffeine+%26+curiosity%2C+one+script+at+a+time)](https://git.io/typing-svg)
 
 
 
