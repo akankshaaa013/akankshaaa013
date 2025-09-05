@@ -4,10 +4,9 @@
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 ### 🌈 About Me:
-<div align="left">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=1000&color=1FCEF7&multiline=true&random=false&width=500&height=60&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Data+Analytics+☁;%F0%9F%93%AB+How+to+reach+me+akankshag4717%40gmail.com;%E2%9A%A1+Thriving+on+caffeine%2C+debugging%2C+and+endless+lines+of+code%F0%9F%98%9B" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=14&duration=4000&pause=800&color=1A1A1A&multiline=true&random=false&width=550&height=80&&lines=☆+Currently+diving+deep+into+Generative+AI+and+Machine+Learning;➲+Working+as+a+Data+Engineer+%7C+Data+Scraping+%26+Insights;▶+Transforming+raw+data+into+meaningful+stories;❧+Fueled+by+caffeine+%26+curiosity%2C+one+script+at+a+time)](https://git.io/typing-svg)
+
+
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -23,13 +22,13 @@
 
 
 ### 📈 Git Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshaaa013&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshaaa013&show_icons=true&locale=en&layout=compact&theme=light&hide_border=false&" alt="akankshaaa013" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshaaa013&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshaaa013&show_icons=true&locale=en&theme=light&hide_border=false&" alt="akankshaaa013" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaaa013&theme=vision-friendly-dark&hide_border=false&" alt="akankshaaa013" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaaa013&theme=light&hide_border=false&" alt="akankshaaa013" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 [![](https://visitcount.itsvg.in/api?id=akankshaaa013&icon=1&color=7)](https://visitcount.itsvg.in)
